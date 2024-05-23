@@ -20,7 +20,7 @@ const Header = () => {
         </div>
 
         {/* banner texts*/}
-        <div>
+        <div className="banner-img">
           <img src={bannerImg} alt="" />
         </div>
       </section>
