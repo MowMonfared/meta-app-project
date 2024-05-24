@@ -7,6 +7,6 @@ This project was made for the capstone project of the Meta Front-End Development
 ## Screenshots
 Here are some screeenshots of the application showcasing the Booking functionality.
 
-![little lemon website table booking](/src/images/github-cover.png)
+![little lemon website table booking](/src/images/React-app.png)
 
 
